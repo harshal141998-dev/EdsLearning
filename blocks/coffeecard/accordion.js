@@ -1,3 +1,6 @@
+
+console.log('Accordion JS Loaded');
+
 function decorateAccordion(el) {
     const titles = el.querySelectorAll(':scope > div:nth-child(odd)');
     titles.forEach((title) => {
