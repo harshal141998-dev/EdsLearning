@@ -11,8 +11,13 @@
 }
 
 .fifa>div {
+<<<<<<< HEAD
     width: 100%;
     height: 100%;
+=======
+    width:100%;
+    height:100%;
+>>>>>>> 0e5df5ef14bd23b2c006cad6f2c66f26380b5abd
     display: flex;
     align-items: center;
     gap: 30px;
