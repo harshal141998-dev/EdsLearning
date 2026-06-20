@@ -1,0 +1,35 @@
+.fifa {
+    max-width: 120px;
+    margin: 40px auto;
+}
+
+.fifa-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.fifa>div {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 1px solid #131010;
+    border-radius: 10px;
+}
+
+.fifa picture {
+    display: block;
+}
+
+
+.fifa img {
+    width: 320px;
+    ;
+    height: 140px;
+}
+
+.fifa p {
+    color: red;
+}
