@@ -1,5 +1,4 @@
-
-console.log('Accordion JS Loaded');
+console.log("coffe");
 
 function decorateAccordion(el) {
     const titles = el.querySelectorAll(':scope > div:nth-child(odd)');
